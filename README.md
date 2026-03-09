@@ -23,6 +23,7 @@ This repo documents product thinking around AI experiences: what problem a featu
 ## Starter teardowns
 - ChatGPT Projects
 - Perplexity for research workflows
+- Cursor IDE agent workflows
 
 ## Signal this repo is meant to send
 - Strong AI product intuition
